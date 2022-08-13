@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 testando teste - 
 Renata Guedes
 Alterando arquivo de Thiago
+=======
+testando teste
+nova linha
+nova linha git
+nova linha git hub
+>>>>>>> 8a712c2debf4240b7703308099982c4bdb54abb5
